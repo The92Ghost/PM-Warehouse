@@ -18,7 +18,7 @@ namespace W_System
             InitializeComponent();
         }
 
-        public string cs = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Нели\Проекти\УСП\W_System\Database1.mdf;Integrated Security=True";
+        public string cs = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Google Drive\ТУ - Варна\3 Курс 2 Семестър\УСП - Управление на Софтуерни Проекти\W_System\Database1.mdf;Integrated Security=True";
         public SqlConnection myconnection = default(SqlConnection);
         public SqlCommand mycommand = default(SqlCommand);
 
